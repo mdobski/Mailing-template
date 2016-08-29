@@ -1,0 +1,3 @@
+# mailing
+
+przykładowy szablon mailingowy
